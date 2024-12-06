@@ -10,10 +10,10 @@ import NewPostForm from '../NewPostForm/NewPostForm';
 const App = () => {
   return (
     <Provider store={store}>
-      <Router>
+      <Router basename="/test">
         <Container className="container">
           <div className="app">
-            <Routes>
+            <Routes >
               <Route path="/" element={<CardList />} />
               <Route path="/products/:id" element={<Post />} />
               <Route path="/new-post" element={<NewPostForm />} />
