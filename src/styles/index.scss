@@ -1,0 +1,24 @@
+@import './normalize';
+@import './container';
+
+// Global variables
+:root {
+  // Colors
+  --primary-color: #1976d2;
+  --secondary-color: #dc004e;
+  --text-color: #333;
+  --background-color: #fff;
+  
+  // Spacing
+  --spacing-xs: 0.4rem;
+  --spacing-sm: 0.8rem;
+  --spacing-md: 1.6rem;
+  --spacing-lg: 2.4rem;
+  --spacing-xl: 3.2rem;
+
+  // Breakpoints
+  --mobile: 576px;
+  --tablet: 768px;
+  --desktop: 992px;
+  --large-desktop: 1200px;
+}
