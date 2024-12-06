@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https%20//github.com/Lebedev31/test/static/css/main.40914522.css",
+    "main.js": "/https%20//github.com/Lebedev31/test/static/js/main.34a97a73.js",
+    "index.html": "/https%20//github.com/Lebedev31/test/index.html",
+    "main.40914522.css.map": "/https%20//github.com/Lebedev31/test/static/css/main.40914522.css.map",
+    "main.34a97a73.js.map": "/https%20//github.com/Lebedev31/test/static/js/main.34a97a73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40914522.css",
+    "static/js/main.34a97a73.js"
+  ]
+}
